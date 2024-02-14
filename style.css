@@ -394,3 +394,11 @@ article .icon {
   height: 32px;
   width: 32px;
 }
+/* footer */
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+}
+footer p {
+  text-align: center;
+}
