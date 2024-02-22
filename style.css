@@ -51,6 +51,7 @@ a:hover {
 }
 .logo {
   font-size: 2rem;
+  color: #890304;
 }
 .logo:hover {
   cursor: default;
@@ -102,6 +103,7 @@ a:hover {
   list-style: none;
 }
 .menu-links.open {
+  z-index: 2;
   max-height: 300px;
 }
 .hamburger-icon.open span:first-child {
@@ -182,6 +184,9 @@ section {
   align-self: center;
   text-align: center;
 }
+.section_text h1 {
+  color: #002263;
+}
 
 .section_text p {
   font-weight: 600;
@@ -196,6 +201,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  color: red;
 }
 #socials-container {
   display: flex;
