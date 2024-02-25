@@ -51,7 +51,7 @@ a:hover {
 }
 .logo {
   font-size: 2rem;
-  color: #890304;
+  font-weight: bolder;
 }
 .logo:hover {
   cursor: default;
